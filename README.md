@@ -56,4 +56,4 @@ This continuous update and prediction process allow the RNN to handle varying le
 
 ## Explore My Code
 
-🔗 **GitHub Repository:** Dive into the codebase to see the journey of creating a robust multi-label classification model using RNNs. Understand the challenges faced, the innovative solutions implemented, and how the project contributes to a safer online communication environment.
+🔗 **GitHub Repository:** Dive into the codebase (notebook file .ipynb) to see the journey of creating a multi-label classification model using RNNs. Understand the challenges faced, the innovative solutions implemented, and how the project contributes to a safer online communication environment.
